@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "This is my cirrus app",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "cirrus",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
